@@ -4,10 +4,10 @@
 
 ## Ingredientes
 
-- [ ] Água // 500ml
-- [ ] Trigo // 820g
-- [ ] Fermento // 10g
-- [ ] Sal // 15g
+- <input type="checkbox" disabled /> Água // 500ml
+- <input type="checkbox" disabled /> Trigo // 820g
+- <input type="checkbox" disabled /> Fermento // 10g
+- <input type="checkbox" disabled /> Sal // 15g
 
 ## Processo
 
@@ -25,8 +25,8 @@
 
 ## Ingredientes
 
-- [ ] Óleo de coco // 6 colheres de sopa
-- [ ] Açúcar // 6 colheres de sopa
+- <input type="checkbox" disabled /> Óleo de coco // 6 colheres de sopa
+- <input type="checkbox" disabled /> Açúcar // 6 colheres de sopa
 
 ## Processo
 
@@ -36,9 +36,9 @@
 
 ## Ingredientes
 
-- [ ] leite de coco // 200ml
-- [ ] açúcar // 3/4 de uma xicara 
-- [ ] Canela // 1 colher de chá de 
+- <input type="checkbox" disabled /> leite de coco // 200ml
+- <input type="checkbox" disabled /> açúcar // 3/4 de uma xicara 
+- <input type="checkbox" disabled /> Canela // 1 colher de chá de 
 
 ## Processo
 
