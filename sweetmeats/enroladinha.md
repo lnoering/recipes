@@ -4,10 +4,10 @@
 
 ## Ingredientes
 
-- <input type="checkbox" disabled /> Água // 500ml
-- <input type="checkbox" disabled /> Trigo // 820g
-- <input type="checkbox" disabled /> Fermento // 10g
-- <input type="checkbox" disabled /> Sal // 15g
+- [ ] Água // 500ml
+- [ ] Trigo // 820g
+- [ ] Fermento // 10g
+- [ ] Sal // 15g
 
 ## Processo
 
@@ -25,8 +25,8 @@
 
 ## Ingredientes
 
-- <input type="checkbox" disabled /> Óleo de coco // 6 colheres de sopa
-- <input type="checkbox" disabled /> Açúcar // 6 colheres de sopa
+- [ ] Óleo de coco // 6 colheres de sopa
+- [ ] Açúcar // 6 colheres de sopa
 
 ## Processo
 
@@ -36,9 +36,9 @@
 
 ## Ingredientes
 
-- <input type="checkbox" disabled /> leite de coco // 200ml
-- <input type="checkbox" disabled /> açúcar // 3/4 de uma xicara 
-- <input type="checkbox" disabled /> Canela // 1 colher de chá de 
+- [ ] leite de coco // 200ml
+- [ ] açúcar // 3/4 de uma xicara 
+- [ ] Canela // 1 colher de chá de 
 
 ## Processo
 
@@ -61,3 +61,14 @@
 - Retirar.
 - Passar a [cobertura](#cobertura) apenas na parte de cima. (Pincel de silicone ou uma colher pode facilitar)
 - Esperar esfriar para poder comer sem se queimar.
+
+# Images
+
+![Massa](./images/enroladinha_dough.jpg?raw=true)
+
+![Massa enrolada](./images/enroladinha_rolled_dough.jpg?raw=true)
+
+![Pronta para ir pro forno](./images/enroladinha_ready_oven.jpg?raw=true)
+
+![Pronta](./images/enroladinha_after_oven.jpg?raw=true)
+
