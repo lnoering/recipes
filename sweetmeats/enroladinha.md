@@ -64,11 +64,15 @@
 
 # Images
 
-![Massa](./images/enroladinha_dough.jpg?raw=true)
+## Massa pronta para abrir no rolo.
+![Massa](../images/enroladinha_dough.jpg?raw=true)
 
-![Massa enrolada](./images/enroladinha_rolled_dough.jpg?raw=true)
+## Massa já enrolada, pronta para cortar.
+![Massa enrolada](../images/enroladinha_rolled_dough.jpg?raw=true)
 
-![Pronta para ir pro forno](./images/enroladinha_ready_oven.jpg?raw=true)
+## Pronta para ir pro forno.
+![Pronta para ir pro forno](../images/enroladinha_ready_oven.jpg?raw=true)
 
-![Pronta](./images/enroladinha_after_oven.jpg?raw=true)
+## Pronta para comer.
+![Pronta](../images/enroladinha_after_oven.jpg?raw=true)
 
