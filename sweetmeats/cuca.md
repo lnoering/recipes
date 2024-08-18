@@ -4,23 +4,24 @@
 
 ## Ingredientes
 
-- [ ] Açúcar                // 1 Colher de Sopa
+- [ ] Açúcar                // 3 Colheres de Sopa
 - [ ] Fermento Biológico    // 1 Colher de Sopa
 - [ ] Água Morna            // 200ml
 - [ ] Azeite de Oliva       // 2 Colher de Sopa
+- [ ] Sal                   // 1 pitada (com os dedos)
 - [ ] Trigo                 // 2 Xícaras
 
 ## Processo
 
 - Pegar uma bacia.
-- Colocar a água morna e o fermento (deixar agir por 3 a 5 minutos)
+- Colocar a água morna, fermento e o 1 colher de sopa de açúcar. (deixar agir por 3 a 5 minutos)
 - Adicionar meia xícara de trigo e mexer bem. (Repetir esse processo até acabar o trigo)
-- Sovar com as mãos
+- Colocar a pitada de sal.
+- Colocar as 2 colheres de açúcar.
+- Sovar com as mãos. (por 5 minutos, a massa fica mais molhada mesmo)
 - Deixar a massa descansar por 30 minutos ou até dobrar de tamanho.
 
-# Cobertura
-
-## De Maçã
+# Recheio
 
 ### Ingredientes
 
@@ -35,7 +36,7 @@
 - Cortar em Cubos
 - Colocar em um recipiente e misturar tudo
 
-## De Farofa
+# Cobertura
 
 ### Ingredientes
 
